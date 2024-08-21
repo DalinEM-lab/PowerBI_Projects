@@ -9,6 +9,6 @@ The report is shown below:
 ![alt text](https://github.com/DalinEM-lab/PowerBI_Projects/blob/main/Overview.png)
 
 
-![alt text](https://github.com/DalinEM-lab/PowerBI_Projects/blob/main/Locations.png)
+![alt text](https://github.com/DalinEM-lab/PowerBI_Projects/blob/main/Location.png)
 
 
